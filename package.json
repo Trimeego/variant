@@ -1,0 +1,29 @@
+{
+  "name": "variant",
+  "version": "0.0.1",
+  "description": "A simple module that takes a variable in one of a variety of forms (camel case, snake case, hyphenated, etc) and returns an object containing several commonly required variants.",
+  "keywords": [],
+  "homepage": "https://github.com/Trimeego/variant",
+  "bugs": "https://github.com/Trimeego/variant/issues",
+  "author": {
+    "name": "Trimeego"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Trimeego/variant.git"
+  },
+  "dependencies": {
+    "underscore": "~1.4.4",
+    "mocha": "~1.8.2"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "licenses": [
+    {
+      "type": "BSD"
+    }
+  ]
+}
